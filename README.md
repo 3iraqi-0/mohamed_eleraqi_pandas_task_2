@@ -4,12 +4,10 @@
 
 ### [Dataset-houses-in-london/kaggle](https://www.kaggle.com/datasets/oktayrdeki/houses-in-london)
 
-### Solution
+### [Dataset-houses-in-london/file](./data/london_houses.csv)
 
-<font color=yellow>
+### Solution
 
 - [Solution-NoteBook](Houses_Task%20(2).ipynb)
 
 - [Solution-output-File](./output/Analysis%20data.xlsx)
-
-</font>
