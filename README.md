@@ -6,4 +6,6 @@
 
 ### [Solution-NoteBook](Houses_Task%20(2).ipynb)
 
+<font color=yellow>
+
 ### [Solution-output-File](./output/Analysis%20data.xlsx)
